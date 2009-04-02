@@ -1,0 +1,35 @@
+===Legislation passed in the House, by year ===
+
+* http://www.nmlegis.gov/lcs/legRpt/legpasshouse.aspx?year=09
+
+=== Legislation passed in the Senate, by year ===
+
+* http://www.nmlegis.gov/lcs/legRpt/legpasssenate.aspx?year=09
+
+=== Legislation in the senate ===
+
+* http://www.nmlegis.gov/lcs/legRpt/leghousesenate.aspx
+
+=== Legislation in the house ===
+
+* 
+
+=== Look up a bill ===
+
+* http://www.nmlegis.gov/lcs/_session.aspx?chamber=H&legtype=B&legno=1&year=09
+** chamber -> H = House, S = Senate
+**
+
+=== Bill Locator ===
+
+* http://www.nmlegis.gov/lcs/_locatorcom.aspx?year=09
+
+=== Abbr Guide ===
+
+* http://www.nmlegis.gov/lcs/abbrev.aspx
+
+=== Codes: ===
+
+* HB# -> A bill that was initiated in the house?
+* SB# -> A bill that was initiated in the senate?
+* 
